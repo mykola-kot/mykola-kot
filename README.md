@@ -1,10 +1,13 @@
 <h1 align="center"> Hi 👋 </h1>
+
 <p align="center">
     <samp>
         I’m a software engineer with over seven years of experience. Throughout my career, I've taken part in projects ranging from small APIs to large systems with millions of users in finance, adTech, e-commerce, crypto, and entertainment sectors.
     </samp>
 </p>
-<h2 align="center"> Things I code with </h2>
+
+<h2 align="center"> Technologies </h2>
+
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -35,9 +38,16 @@
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
+
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/mykola-kot/">
-    <img src="https://img.shields.io/badge/-Mykola_Kot-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" />
+  <a target="_blank" href="https://linkedin.com/in/mykola-kot/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-mykola--kot-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://instagram.com/mykola_kot//">
+    <img alt="Instagram" src="https://img.shields.io/badge/mykola--kot-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://x.com/mykola_kot">
+    <img alt="X" src="https://img.shields.io/badge/@mykola_kot-1DA1F2?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
 
